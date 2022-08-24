@@ -9,11 +9,11 @@
 </div>  
 
 <h3 style="color:#242424">Overview.</h3>
-Hi! I'm Full Stack web developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple api applications to microservises systems.
+Hi! I'm a Full Stack web developer, with excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple API applications to microservices systems.
 
 ### ✍️ Languages
 * Arabic: Mother Language.
-* Englsh: Good.
+* English: Good.
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
