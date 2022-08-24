@@ -3,7 +3,11 @@
 
 <h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
-[![](https://visitcount.itsvg.in/api?id=luayjal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=luayjal&&style=flat-square" align="center" />
+</div>  
+
 <h3 style="color:#242424">Overview.</h3>
 Hi! I'm Full Stack web developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple api applications to microservises systems.
 
